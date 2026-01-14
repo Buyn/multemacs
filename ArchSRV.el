@@ -29,6 +29,41 @@
 (setq buyn-monitr-2-position-1 '(3201  910))
 (setq buyn-monitr-2-position-2 '(2115  752))
 (setq buyn-monitr-2-position-3 '(3600	 910))
+;; ** FRAME POSITION PLIST
+(setq buyn-frame-position-list
+			'(:left [
+								(:x 0   :y 910)
+								(:x 670 :y 910)
+								(:x 660 :y 910)
+								(:x 0   :y 600)
+								(:x 670 :y 600)
+								(:x 660 :y 600)
+								(:x 0   :y 337)
+								(:x 670 :y 337)
+								(:x 660 :y 337)
+									]
 
+				:center [
+								(:x 1323 :y 620)
+								(:x 1948 :y 620)
+								(:x 2573 :y 620)
+								(:x 1323 :y 360)
+								(:x 1948 :y 360)
+								(:x 2573 :y 360)
+								(:x 1323 :y 0)
+								(:x 1948 :y 0)
+								(:x 2573 :y 0)
+									]
+				:right [
+								(:x 3201 :y 910)
+								(:x 2115 :y 752)
+								(:x 3600 :y 910)
+								(:x 3201 :y 493)
+								(:x 2115 :y 412)
+								(:x 3600 :y 494)
+								(:x 3201 :y 77)
+								(:x 2115 :y 77)
+								(:x 3600 :y 77)
+									]))
 ;; * END
 ;; (message "Load of ~/.emacs.d/ArchSRV.el")

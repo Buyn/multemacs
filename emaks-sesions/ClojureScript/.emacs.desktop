@@ -1,0 +1,79 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Nov 20 03:00:48 2025
+;; Desktop file format version 208
+;; Emacs version 30.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (26910 26688 986564 331000) (desktop . "208") "buyn@ArchSRV" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "1080-B59F-48B8-E335") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 1323) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "giggin.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "D6D2-F2BC-0D88-E1AE") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 1323) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "my-cljs-project.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1209) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "F568-AB23-F97D-7CE3") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 2573) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "ClojureScript Idioms.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 58) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (font-parameter . "Ubuntu Mono") (sticky) (shaded) (environment) (last-focus-update . t) (dnd-root-window-position) (tabs (current-tab (name . "Necroteuch.org") (explicit-name))) (frameset--id . "7C7E-2568-3D63-98DE") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 0) (top . 600)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "Necroteuch.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 22389) (start . 20808)) (prev-buffers ("*scratch*" 1 1048))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . #("(desktop-save \"~/.emacs.d/emaks-sesions/tolk-shop/\")\n" 0 53 (yank-handler (evil-yank-line-handler nil t) fontified t)))))
+(setq file-name-history '("~/Dropbox/orgs/capture/Necroteuch.org"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/capture/Necroteuch.org"
+  "Necroteuch.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  22389
+  '(21781 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26910 26686 969937 805000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (21900 21900 21792 21745 21692 21655 20690 21196 20733 45407 45407 45407 45407 45407 45407 45407))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/ClojureScript/tutorials/my-cljs-project/giggin/giggin.org"
+  "giggin.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26910 26683 12461 598000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/ClojureScript/tutorials/my-cljs-project/my-cljs-project.org"
+  "my-cljs-project.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  1209
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26910 26682 259947 410000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/org-Brain/ClojureScript Idioms.org"
+  "ClojureScript Idioms.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  58
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26910 24931 662239 474000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/ClojureScript/ttbg.cljs/ttbg-cljs-project.org"
+  "ttbg-cljs-project.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  82727
+  '(82281 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26910 24913 172177 980000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
