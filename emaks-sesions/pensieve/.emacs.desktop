@@ -2,19 +2,19 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Wed Jan 14 18:19:54 2026
+;; Created Sun Jan 18 17:34:27 2026
 ;; Desktop file format version 208
 ;; Emacs version 30.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (26983 49706 212787 650000) (desktop . "208") "buyn@ArchSRV" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (ranger-minimal) (ranger-current-file . "/home/buyn/.emacs.d/emaks-sesions/holodeck") (last-focus-update) (dnd-root-window-position) (frameset--id . "D952-543D-9416-695B") (frameset--mini t) (height . 25) (width . 75) (modeline . t) (unsplittable) (left . 1323) (top . 620) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1048) (start . 496)) (prev-buffers ("*scratch*" 1 1048))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update . t) (dnd-root-window-position) (frameset--id . "B822-B24A-90A6-5B5A") (frameset--mini t . t) (height . 25) (width . 75) (modeline . t) (unsplittable) (left . 1323) (top . 0) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "Pensieve.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 3283) (start . 1776))))])
+(setq desktop-saved-frameset [frameset 1 (26988 64899 626536 462000) (desktop . "208") "buyn@ArchSRV" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "D6DE-D26D-3F8D-FF94") (frameset--mini t) (height . 25) (width . 75) (modeline . t) (unsplittable) (left . 2573) (top . 0) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "2023_06_06.unsorted.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 954) (start . 529))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "CCC8-BB61-3046-2F54") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 1323) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "emacs.packages.org-roam.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 457) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "F163-70F7-3A2A-6E53") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 2573) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "2023_07_01.index.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 244) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (font-parameter . "Ubuntu Mono") (sticky) (shaded) (environment) (last-focus-update . t) (dnd-root-window-position) (frameset--id . "B822-B24A-90A6-5B5A") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 1323) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "Pensieve.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 206) (start . 1))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring nil)
-(setq regexp-search-ring nil)
-(setq register-alist '((48 . #("pensieve" 0 7 (face (font-lock-string-face org-block) font-lock-multiline t src-block t font-lock-fontified t fontified t) 7 8 (face (font-lock-string-face org-block) font-lock-multiline t src-block t font-lock-fontified t rear-nonsticky t fontified t)))))
-(setq file-name-history '("/home/buyn/.emacs.d/emaks-sesions/pensieve" "~/homemacs.org"))
+(setq regexp-search-ring '(#("buller" 0 6 (isearch-case-fold-search t))))
+(setq register-alist '((48 . #("tech.cyber.ai.google:gemeni" 0 21 (fontified t node #s(org-roam-node "/home/buyn/Dropbox/orgs/Org-roam/default/tech.cyber.ai.openai.chatgpt.gpt-3.org" "Gpt-3" nil (26986 42820 250542 195000) (25719 10993 0 0) "2a8df4c6-4fd1-45c0-9da3-b543bea8025e" 0 1 nil nil nil nil "Gpt-3" (("CATEGORY" . "tech.cyber.ai.openai.chatgpt.gpt-3") ("ID" . "2a8df4c6-4fd1-45c0-9da3-b543bea8025e") ("BLOCKED" . "") ("FILE" . "/home/buyn/Dropbox/orgs/Org-roam/default/tech.cyber.ai.openai.chatgpt.gpt-3.org") ("PRIORITY" . "B")) nil nil nil nil)) 21 26 (fontified t) 26 27 (rear-nonsticky t fontified t)))))
+(setq file-name-history '("/home/buyn/Dropbox/orgs/Org-roam/default/daily/2024-02-15.org" "/home/buyn/Dropbox/orgs/Org-roam/default/20260116230508-dk_heat_buller.org" "/home/buyn/.emacs.d/emaks-sesions/pensieve" "~/homemacs.org"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 208
@@ -22,10 +22,214 @@
   "Pensieve.org"
   'org-mode
   '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
-  3283
-  '(3334 nil)
+  206
+  '(285120 nil)
   nil
   nil
-  '((tab-width . 8) (buffer-display-time 26983 49704 61925 515000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
-  '((mark-ring (3334 3334 3273 3224 3223 3223 1948 1948 1701 1824 1806 1716 1798 1834 1701 1824))))
+  '((tab-width . 8) (buffer-display-time 26988 64875 471221 637000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (131 774 281613 24480 24480 24915 24481 24308 24563 3383 3383 3383 3361 3312 3311 3311))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.packages.org-roam.org"
+  "emacs.packages.org-roam.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  457
+  '(489 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 64875 7936 911000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/2023_07_01.index.org"
+  "2023_07_01.index.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  244
+  '(274 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 64871 447442 33000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/2023_06_06.unsorted.org"
+  "2023_06_06.unsorted.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  954
+  '(954 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 58393 570378 239000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (954 880 638 638 1414 907 896 1142 1142 991 991 1052))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.packages.ai_gptel.org"
+  "emacs.packages.ai_gptel.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  2952
+  '(334 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 64863 895634 111000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (219 219 164 136 164 2954 1992 1992 1992 120))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/tech.cyber.ai.google_gemeni.org"
+  "tech.cyber.ai.google_gemeni.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  148
+  '(149 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 64817 311755 910000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.packages.use-package.org"
+  "emacs.packages.use-package.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  178
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 63540 190399 215000) (buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.org"
+  "emacs.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  215
+  '(215 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 58414 842704 302000) (buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (215 197 196))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/tech.app.tools_git.org"
+  "tech.app.tools_git.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  173
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 57968 468957 331000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.packages_org_mode.org"
+  "emacs.packages_org_mode.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  151
+  '(151 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 49411 144207 638000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (151))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.vanilla.registers.text.org"
+  "emacs.vanilla.registers.text.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  390
+  '(390 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 47773 150413 113000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (77))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.packages.org-brain.org"
+  "emacs.packages.org-brain.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  198
+  '(198 t)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 46948 169880 544000) (buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (198 85))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.packages.org-brain.new.org"
+  "emacs.packages.org-brain.new.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  89
+  '(81 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 47024 406084 152000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.packages.org_brain.switch_and_open.org"
+  "emacs.packages.org_brain.switch_and_open.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  401
+  '(401 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 46998 999935 146000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (401 114))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/logos.socio.life.barriers.procastination.причины_прокастинации.org"
+  "logos.socio.life.barriers.procastination.причины_прокастинации.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  119
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 46819 787318 868000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/emacs.packages.org_roam.knowledge_base.принципы.org"
+  "emacs.packages.org_roam.knowledge_base.принципы.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  5374
+  '(5374 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 45536 46363 896000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/lore.spy.007_evil_genius.org"
+  "lore.spy.007_evil_genius.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  94
+  '(127 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 45333 315559 371000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/dk.heat_buller.org"
+  "dk.heat_buller.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  90
+  '(90 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26988 49523 718918 950000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
 

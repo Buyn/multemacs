@@ -2,18 +2,18 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Wed Jan 14 06:16:27 2026
+;; Created Sun Jan 18 17:55:02 2026
 ;; Desktop file format version 208
 ;; Emacs version 30.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (26983 6299 569560 619000) (desktop . "208") "buyn@ArchSRV" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "5F00-D0AA-8950-60D0") (frameset--mini t) (height . 25) (width . 75) (modeline . t) (unsplittable) (left . 1323) (top . 620) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "howard-els-log-2025-11-09.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 252) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "57EA-D01A-884B-1C11") (frameset--mini t) (height . 25) (width . 75) (modeline . t) (unsplittable) (left . 2573) (top . 0) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "StarForge-index.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 556) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (font-parameter . "Ubuntu Mono") (sticky) (shaded) (environment) (last-focus-update . t) (dnd-root-window-position) (frameset--id . "0D2F-6BFA-EBC4-004E") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (tabs (current-tab (name . "holodeck.org") (explicit-name))) (height . 25) (width . 75) (left . 1323) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "holodeck.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 2317459) (start . 702098)) (prev-buffers ("*scratch*" 1 1048))))])
+(setq desktop-saved-frameset [frameset 1 (26989 598 121987 990000) (desktop . "208") "buyn@ArchSRV" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "5F00-D0AA-8950-60D0") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (tabs (current-tab (name . "howard-els-log-2025-11-09.org") (explicit-name))) (ranger-minimal) (ranger-current-file . "/home/buyn/Dev/emacs/howard/emacs-rpgdm/tables/city-shops.org") (height . 25) (width . 75) (left . 1323) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "howard-els-log-2025-11-09.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 2824) (start . 1)) (prev-buffers ("howard-els-log-2025-11-09.org" 1 2845))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "57EA-D01A-884B-1C11") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 2573) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "StarForge-index.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 556) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (font-parameter . "Ubuntu Mono") (sticky) (shaded) (environment) (last-focus-update . t) (dnd-root-window-position) (frameset--id . "0D2F-6BFA-EBC4-004E") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (tabs (current-tab (name . "holodeck.org") (explicit-name))) (height . 25) (width . 75) (left . 1323) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "holodeck.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 2316208) (start . 1)) (prev-buffers ("*scratch*" 1 1048))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring nil)
 (setq regexp-search-ring nil)
-(setq register-alist '((48 . #("(find-file-other-frame \"~/Dropbox/Office/Games/IronSworn/StarForge/StarForge-index.org\")\n\n(find-file-other-frame \"~/Dropbox/Office/Games/IronSworn/StarForge/log/howard-els-log-2025-11-09.org\")\n\n\n(find-file-other-frame \"~/Dropbox/Office/Games/IronSworn/StarForge/log/SF-log-2025-08-19.org\")\n\n(find-file-other-frame \"~/Dropbox/Office/Games/IronSworn/StarForge/SF-rules-v01.org\")\n" 0 376 (yank-handler (evil-yank-line-handler nil t) fontified t) 376 377 (yank-handler (evil-yank-line-handler nil t) fontified t)))))
+(setq register-alist '((48 . #("desktop-read" 0 12 (fontified t)))))
 (setq file-name-history '("~/Dropbox/orgs/capture/holodeck.org"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
@@ -22,24 +22,12 @@
   "holodeck.org"
   'org-mode
   '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
-  2317459
-  '(52669 nil)
+  2316208
+  '(2317730 nil)
   nil
   nil
-  '((tab-width . 8) (buffer-display-time 26983 6266 304718 32000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
-  '((mark-ring (52698 2287004 2284852 2284852 2284800 2288196 1))))
-
-(desktop-create-buffer 208
-  "/home/buyn/Dropbox/Office/Games/IronSworn/StarForge/log/howard-els-log-2025-11-09.org"
-  "howard-els-log-2025-11-09.org"
-  'org-mode
-  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
-  252
-  '(nil nil)
-  nil
-  nil
-  '((tab-width . 8) (buffer-display-time 26983 6218 592806 739000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
-  '((mark-ring nil)))
+  '((tab-width . 8) (buffer-display-time 26989 588 305515 803000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (2317717 2317782 2317782 2317782 2317782 2317717 2316131 52669 52698 2287004 2284852 2284852 2284800 2288196 1))))
 
 (desktop-create-buffer 208
   "/home/buyn/Dropbox/Office/Games/IronSworn/StarForge/StarForge-index.org"
@@ -50,8 +38,20 @@
   '(nil nil)
   nil
   nil
-  '((tab-width . 8) (buffer-display-time 26983 6180 759672 964000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((tab-width . 8) (buffer-display-time 26989 580 473514 590000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
   '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/Office/Games/IronSworn/StarForge/log/howard-els-log-2025-11-09.org"
+  "howard-els-log-2025-11-09.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  2824
+  '(2841 t)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 26989 582 847888 456000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (2841 2823 2870 2845 2870 2870 2842 2893 28152 28152 3269))))
 
 (desktop-create-buffer 208
   "/home/buyn/Dropbox/Office/Games/DOOM/doom-index.org"
@@ -62,6 +62,30 @@
   '(nil nil)
   nil
   nil
-  '((tab-width . 8) (buffer-display-time 26983 5483 497585 124000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((tab-width . 8) (buffer-display-time 26988 60360 571689 345000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "howard"
+  'dired-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode hl-line-mode)
+  28
+  '(nil nil)
+  t
+  '("/home/buyn/Dev/emacs/howard/")
+  '((buffer-display-time 26989 580 878314 834000) (overwrite-mode) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "Dev"
+  'dired-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode dired-hide-details-mode hl-line-mode)
+  101
+  '(101 nil)
+  t
+  '("/home/buyn/Dev/")
+  '((buffer-display-time 26989 580 878312 785000) (overwrite-mode) (truncate-lines))
   '((mark-ring nil)))
 
