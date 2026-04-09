@@ -1,0 +1,379 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Apr  9 15:31:48 2026
+;; Desktop file format version 208
+;; Emacs version 30.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (27095 39988 682353 951000) (desktop . "208") "buyn@ArchSRV" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "E309-B57E-40DE-39A9") (frameset--mini t) (height . 25) (width . 75) (modeline . t) (unsplittable) (left . 2573) (top . 0) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "ZZTemacs.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 72) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "FB89-992D-A8F1-F55A") (frameset--mini t) (height . 25) (width . 75) (modeline . t) (unsplittable) (left . 3201) (top . 493) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "*eshell*" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 804) (start . 95))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "4346-9E7C-22D9-F179") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 2573) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "tech.cyber.ai.tools.aider_aider.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 37365) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "3406-B931-E1EA-BF83") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 1323) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "aider-sandbox.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 6) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (font-parameter . "Ubuntu Mono") (sticky) (shaded) (environment) (last-focus-update . t) (dnd-root-window-position) (frameset--id . "1010-2FFF-B5B9-A52E") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (tabs (current-tab (name . "Necroteuch.org") (explicit-name))) (height . 25) (width . 75) (left . 1323) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "Necroteuch.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 71135) (start . 55379)) (prev-buffers ("*scratch*" 1 1048))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . #(" киро в Роам" 0 1 (face org-level-2 fontified t) 1 2 (face org-level-2 fontified t) 2 3 (face org-level-2 fontified t) 3 4 (face org-level-2 fontified t) 4 5 (face org-level-2 fontified t) 5 6 (face org-level-2 fontified t) 6 7 (face org-level-2 fontified t) 7 8 (face org-level-2 fontified t) 8 9 (face org-level-2 fontified t) 9 10 (face org-level-2 fontified t) 10 11 (face org-level-2 fontified t) 11 12 (face org-level-2 fontified t)))))
+(setq file-name-history '("/home/buyn/Dev/aider-sandbox/del_aider-sandbox.org" "~/Dropbox/orgs/capture/Necroteuch.org"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/capture/Necroteuch.org"
+  "Necroteuch.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode org-appear-mode)
+  71135
+  '(74143 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27095 39977 566448 533000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (74168 74039 70268 70173 73603 73654 55491 70098 55491 55491 55491 51246 51275 55491 51404 51401))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/aider-sandbox.org"
+  "aider-sandbox.org"
+  'org-mode
+  '(auto-revert-mode yas-minor-mode evil-local-mode visual-line-mode font-lock-mode smerge-mode)
+  6
+  '(61199 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27095 39976 977284 531000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (61199 77528))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/AI/kiro-proj/ZZTemacs/ZZTemacs.org"
+  "ZZTemacs.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  72
+  '(67 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27095 39794 967948 806000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (54))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/tech.cyber.ai.tools.aider_aider.org"
+  "tech.cyber.ai.tools.aider_aider.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  37365
+  '(37365 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27095 39781 110896 656000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (37615 37979 37412 37379 37405 37386 37386 546))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake/last_unittest_run.log"
+  "last_unittest_run.log"
+  'fundamental-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode auto-revert-mode)
+  183
+  '(183 nil)
+  nil
+  nil
+  '((buffer-display-time 27095 37349 47680 502000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake/progress.md"
+  "progress.md"
+  'markdown-mode
+  '(font-lock-mode eldoc-mode visual-line-mode evil-local-mode yas-minor-mode auto-revert-mode)
+  1324
+  '(1324 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 27095 37349 723940 996000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1421))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake/review_and_comments.md"
+  "review_and_comments.md"
+  'markdown-mode
+  '(auto-revert-mode font-lock-mode eldoc-mode visual-line-mode evil-local-mode yas-minor-mode)
+  496
+  '(496 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 27095 37350 452900 47000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (52 2 2 393))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake/run.md"
+  "run.md"
+  'markdown-mode
+  '(font-lock-mode eldoc-mode visual-line-mode evil-local-mode yas-minor-mode auto-revert-mode)
+  1289
+  '(1290 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 27095 37349 941096 912000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (22 22))))
+
+(desktop-create-buffer 208
+  nil
+  "*eww*"
+  'eww-mode
+  '(yas-minor-mode evil-local-mode font-lock-mode visual-line-mode)
+  41
+  '(41 nil)
+  t
+  '(:history ((:url "https://html.duckduckgo.com/html/" :title "\"aider\" nvidia provider at DuckDuckGo") (:point 46 :url "https://html.duckduckgo.com/html/?q=aider+nvidia+provider" :title "aider nvidia provider at DuckDuckGo")) :history-position 0)
+  '((buffer-display-time 27095 37350 201461 190000) (buffer-file-coding-system . no-conversion) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake_run_coder.sh"
+  "snake_run_coder.sh"
+  'sh-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode auto-revert-mode sh-electric-here-document-mode hl-line-mode company-mode rainbow-delimiters-mode highlight-indentation-mode flycheck-mode display-line-numbers-mode)
+  1022
+  '(1023 nil)
+  nil
+  nil
+  '((buffer-display-time 27095 37349 301495 436000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (532 362))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake_run_arhitect.sh"
+  "snake_run_arhitect.sh"
+  'sh-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode auto-revert-mode sh-electric-here-document-mode hl-line-mode company-mode rainbow-delimiters-mode highlight-indentation-mode flycheck-mode display-line-numbers-mode)
+  809
+  '(809 nil)
+  nil
+  nil
+  '((buffer-display-time 27095 37349 444212 998000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (1348 750))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake/arhitect_role.md"
+  "arhitect_role.md"
+  'markdown-mode
+  '(auto-revert-mode font-lock-mode eldoc-mode visual-line-mode evil-local-mode yas-minor-mode)
+  2561
+  '(3683 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 27095 35222 819305 195000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "git aider"
+  'eww-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  41
+  '(nil nil)
+  t
+  '(:history ((:url "https://aider.chat/docs/usage.html" :title "Usage | aider") (:point 7303 :title "GitHub - Aider-AI/aider: aider is AI pair programming in your terminal · GitHub" :url "https://github.com/Aider-AI/aider")) :history-position 0)
+  '((buffer-display-time 27095 30862 48073 48000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake/coder_role.md"
+  "coder_role.md"
+  'markdown-mode
+  '(auto-revert-mode font-lock-mode eldoc-mode visual-line-mode evil-local-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 27095 26416 975538 463000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake/technical_specification.md"
+  "technical_specification.md"
+  'markdown-mode
+  '(auto-revert-mode font-lock-mode eldoc-mode visual-line-mode evil-local-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 27095 26416 926957 298000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/snake/python_code_style.md"
+  "python_code_style.md"
+  'markdown-mode
+  '(auto-revert-mode font-lock-mode eldoc-mode visual-line-mode evil-local-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-display-time 27095 26416 701001 21000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/activate.sh"
+  "activate.sh"
+  'sh-mode
+  '(auto-revert-mode font-lock-mode visual-line-mode evil-local-mode yas-minor-mode sh-electric-here-document-mode hl-line-mode company-mode rainbow-delimiters-mode highlight-indentation-mode flycheck-mode display-line-numbers-mode)
+  21
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 27095 24738 353979 33000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "~"
+  'dired-mode
+  '(hl-line-mode dired-hide-details-mode font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  166
+  '(nil nil)
+  t
+  '("/home/buyn/")
+  '((buffer-display-time 27094 42500 316774 930000) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/Office/Games/Arkham/Arkham-Horror.org"
+  "Arkham-Horror.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  84381
+  '(81741 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27094 40723 61262 963000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (80181 80186 80278 80210 80210 80181 61207 61288 61796 61807 90376 61775 61796 61788 61899 61899))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/renpy/TTS/TTS.org"
+  "TTS.org"
+  'org-mode
+  '(auto-revert-mode font-lock-mode visual-line-mode evil-local-mode yas-minor-mode org-appear-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27094 40724 869764 962000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/Office/Dev/renpy/renpy.org"
+  "renpy.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode org-appear-mode)
+  73732
+  '(73646 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27093 29645 709058 119000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (73726 73660 75121 75121 71766))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/tech.code.gamengin_renpy.org"
+  "tech.code.gamengin_renpy.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode org-appear-mode)
+  89889
+  '(115855 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27093 29642 587053 733000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (53011 46764))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/Office/Games/Arkham/log/AH-log-2025-04-16.org"
+  "AH-log-2025-04-16.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  156
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27093 29638 505442 28000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/org-Brain/Arkham-Horror.org.org"
+  "Arkham-Horror.org.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  35
+  '(491 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27091 4078 744843 903000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/org-Brain/TTS.RenPy.gamengin.coding.org"
+  "TTS.RenPy.gamengin.coding.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode org-appear-mode)
+  463
+  '(65 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27091 1023 340625 742000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/renpy/tutorials/org-renpy-tutorials.org"
+  "org-renpy-tutorials.org"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode org-appear-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27091 847 783904 319000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/Office/Games/Game-logs/AI/2024-06-07-SD-story.org"
+  "2024-06-07-SD-story.org"
+  'org-mode
+  '(org-appear-mode yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27091 651 512366 482000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/Office/Games/aidungeon/Stable_Diffusion.org"
+  "Stable_Diffusion.org"
+  'org-mode
+  '(org-appear-mode yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27095 26420 985745 978000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dev/aider-sandbox/aider-sandbox.org_archive"
+  "aider-sandbox.org_archive"
+  'org-mode
+  '(auto-revert-mode font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  63372
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27095 37348 389589 632000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/capture/Necroteuch.org_archive"
+  "Necroteuch.org_archive"
+  'org-mode
+  '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
+  102
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
