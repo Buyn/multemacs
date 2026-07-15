@@ -2,18 +2,18 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Thu Feb 19 02:45:32 2026
+;; Created Mon Jun 29 15:30:05 2026
 ;; Desktop file format version 208
 ;; Emacs version 30.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (27030 23852 771102 51000) (desktop . "208") "buyn@ArchSRV" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "B2D0-1AB1-3F45-B0F3") (frameset--mini t) (height . 25) (width . 75) (modeline . t) (unsplittable) (left . 1323) (top . 620) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "game.played.pc_event_horizon.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1913) (start . 138))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (font-parameter . "Ubuntu Mono") (sticky) (shaded) (environment) (last-focus-update . t) (dnd-root-window-position) (frameset--id . "B094-1CE3-14DC-342C") (frameset--mini t . t) (height . 25) (width . 75) (modeline . t) (unsplittable) (left . 1323) (top . 0) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 385) (total-width . 77) (total-height . 22) (normal-height . 1.0) (normal-width . 1.0) (buffer "holodeck.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 2318638) (start . 2263355)) (prev-buffers ("*scratch*" 1 1048))))])
+(setq desktop-saved-frameset [frameset 1 (27202 25933 587323 761000) (desktop . "208") "buyn@ArchSRV" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "35F5-FE5F-38F9-C620") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 1948) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "game.mod.tool.ce_cheat_engin.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 213) (start . 109))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (font-parameter . "Ubuntu Mono") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (sticky) (shaded) (last-focus-update) (dnd-root-window-position) (frameset--id . "262C-4F22-A58B-5CF9") (frameset--mini t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 2573) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "tech.app.virt.wine_wine.org" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 83) (start . 1))) (((minibuffer . t) (undecorated) (override-redirect) (font . "-DAMA-Ubuntu Mono-regular-normal-normal-*-16-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (font-parameter . "Ubuntu Mono") (sticky) (shaded) (environment) (last-focus-update . t) (dnd-root-window-position) (frameset--id . "0FA1-6E24-89EB-304D") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 25) (width . 75) (left . 1323) (top . 620)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 51) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 616) (pixel-height . 408) (total-width . 77) (total-height . 24) (normal-height . 1.0) (normal-width . 1.0) (buffer "holodeck.org" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 3156096) (start . 1)) (prev-buffers ("*scratch*" 1 1048) ("holodeck.org" 1232823 1233454))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
-(setq search-ring nil)
-(setq regexp-search-ring nil)
-(setq register-alist '((48 . #("** Что плохо\n" 0 1 (yank-handler (evil-yank-line-handler nil t) face org-hide fontified t) 1 2 (yank-handler (evil-yank-line-handler nil t) face org-level-2 fontified t) 2 3 (yank-handler (evil-yank-line-handler nil t) face org-level-2 fontified t) 3 12 (yank-handler (evil-yank-line-handler nil t) face org-level-2 fontified t) 12 13 (yank-handler (evil-yank-line-handler nil t) fontified t)))))
+(setq search-ring '(#("Cheat Engine" 0 12 (isearch-case-fold-search nil isearch-regexp-function nil)) #("Crimson Deser" 0 13 (isearch-case-fold-search t isearch-regexp-function nil))))
+(setq regexp-search-ring '(#("Cheat Engine" 0 12 (isearch-case-fold-search nil)) #("Crimson Deser" 0 13 (isearch-case-fold-search t)) #("crim" 0 4 (isearch-case-fold-search t))))
+(setq register-alist '((48 . #("(find-file \"~/Dropbox/orgs/capture/holodeck.org\")\n" 0 1 (yank-handler (evil-yank-line-handler nil t) face (rainbow-delimiters-depth-1-face org-block) font-lock-multiline t fontified t font-lock-fontified t src-block t) 1 11 (yank-handler (evil-yank-line-handler nil t) face (org-block) font-lock-multiline t fontified t font-lock-fontified t src-block t) 11 14 (yank-handler (evil-yank-line-handler nil t) face (font-lock-string-face org-block) font-lock-multiline t fontified t font-lock-fontified t src-block t) 14 47 (yank-handler (evil-yank-line-handler nil t) face (font-lock-string-face org-block) font-lock-multiline t src-block t font-lock-fontified t fontified t) 47 48 (yank-handler (evil-yank-line-handler nil t) face (font-lock-string-face org-block) font-lock-multiline t fontified t font-lock-fontified t src-block t) 48 49 (yank-handler (evil-yank-line-handler nil t) face (rainbow-delimiters-depth-1-face org-block) font-lock-multiline t fontified t rear-nonsticky t font-lock-fontified t src-block t) 49 50 (yank-handler (evil-yank-line-handler nil t) face (org-block) font-lock-multiline t src-block t font-lock-fontified t fontified t)))))
 (setq file-name-history '("~/Dropbox/orgs/capture/holodeck.org"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
@@ -22,22 +22,46 @@
   "holodeck.org"
   'org-mode
   '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
-  2318638
-  '(2318744 nil)
+  3156096
+  '(3137284 nil)
   nil
   nil
-  '((tab-width . 8) (buffer-display-time 27030 23842 202322 711000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
-  '((mark-ring (2318744 704936 704836 704836 704822))))
+  '((tab-width . 8) (buffer-display-time 27202 25923 138713 622000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (3137394 1404344 1211947 1511902 1511819 1511780 1511767 1511706 1511645 1511587 1511533 1511477 1511533 1511587 1511645 1511706))))
 
 (desktop-create-buffer 208
-  "/home/buyn/Dropbox/orgs/Org-roam/default/game.played.pc_event_horizon.org"
-  "game.played.pc_event_horizon.org"
+  "/home/buyn/Dropbox/orgs/Org-roam/default/game.mod.tool.ce_cheat_engin.org"
+  "game.mod.tool.ce_cheat_engin.org"
+  'org-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  213
+  '(302 nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time 27202 25922 239951 348000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (318))))
+
+(desktop-create-buffer 208
+  "/home/buyn/Dropbox/orgs/Org-roam/default/tech.app.virt.wine_wine.org"
+  "tech.app.virt.wine_wine.org"
   'org-mode
   '(font-lock-mode visual-line-mode evil-local-mode yas-minor-mode)
-  1913
-  '(1881 nil)
+  83
+  '(83 nil)
   nil
   nil
-  '((tab-width . 8) (buffer-display-time 27030 23521 590160 437000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
-  '((mark-ring (1823 1826))))
+  '((tab-width . 8) (buffer-display-time 27202 25919 404089 14000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (14223 29443))))
+
+(desktop-create-buffer 208
+  nil
+  "*eww*"
+  'eww-mode
+  '(yas-minor-mode evil-local-mode visual-line-mode font-lock-mode)
+  41
+  '(41 t)
+  t
+  '(:history ((:title "Virtual-Key Codes (Winuser.h) - Win32 apps | Microsoft Learn" :url "https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes")) :history-position 0)
+  '((buffer-display-time 27201 19818 262028 868000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((mark-ring nil)))
 
